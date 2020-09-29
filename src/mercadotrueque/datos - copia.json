@@ -1,0 +1,89 @@
+{
+  "usuario": [
+    {
+      "nombre": "mercadotrueque",
+      "correo": "mercadotrueque@gmail.com",
+      "clave": "123",
+      "aviso": []
+    },
+    {
+      "nombre": "juan",
+      "correo": "juan@gmail.com",
+      "clave": "123",
+      "aviso": []
+    },
+    {
+      "nombre": "todoPC",
+      "correo": "todopc@gmail.com",
+      "clave": "12345",
+      "aviso": [
+        {
+          "titulo": "notebook hp",
+          "descripcion": "buen estado impecable",
+          "precio": 400000,
+          "alonsoCoin": 4,
+          "categoria": "Computacion",
+          "region": 4,
+          "idAviso": 0,
+          "idPublicador": "todopc@gmail.com",
+          "comentario": [
+            {
+              "cDescripcion": "muy bueno recomendado",
+              "cUsuario": "elVecino",
+              "puntuacion": 10
+            },
+            {
+              "cDescripcion": "muy malo",
+              "cUsuario": "pedrochan",
+              "puntuacion": 1
+            }
+          ]
+        },
+        {
+          "titulo": "notebook asus",
+          "descripcion": "buen estado impecable",
+          "precio": 300000,
+          "alonsoCoin": 5,
+          "categoria": "Computacion",
+          "region": 5,
+          "idAviso": 1,
+          "idPublicador": "todopc@gmail.com",
+          "comentario": [
+            {
+              "cDescripcion": "buenisimo",
+              "cUsuario": "estebanRoger55",
+              "puntuacion": 10
+            },
+            {
+              "cDescripcion": "ultra malo",
+              "cUsuario": "camila22",
+              "puntuacion": 1
+            }
+          ]
+        },
+        {
+          "titulo": "memoria ram 1gb",
+          "descripcion": "buen estado impecable",
+          "precio": 10000,
+          "alonsoCoin": 1,
+          "categoria": "Computacion",
+          "region": 5,
+          "idAviso": 2,
+          "idPublicador": "todopc@gmail.com",
+          "comentario": [
+            {
+              "cDescripcion": "sere el rey de los piratas!!",
+              "cUsuario": "luffyluffy",
+              "puntuacion": 10
+            },
+            {
+              "cDescripcion": "regular y medio",
+              "cUsuario": "rodrigo456",
+              "puntuacion": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
